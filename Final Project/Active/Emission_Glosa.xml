@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-05-01 13:20:05 by Eclipse SUMO GUI Version 1.10.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="./final.net.xml"/>
+        <route-files value="./less.rou.xml"/>
+    </input>
+
+    <output>
+        <write-license value="true"/>
+        <emission-output value="./Emission_Glosa.xml"/>
+        <fcd-output value="./fcd.xml"/>
+        <tripinfo-output value="./tripinfos.txt"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="100000"/>
+        <step-length value="0.1"/>
+    </time>
+
+    <processing>
+        <default.speeddev value="100"/>
+        <pedestrian.model value="nonInteracting"/>
+    </processing>
+
+    <report>
+        <duration-log.disable value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <traci_server>
+        <remote-port value="8813"/>
+    </traci_server>
+
+    <mesoscopic>
+        <mesosim value="true"/>
+    </mesoscopic>
+
+    <gui_only>
+        <quit-on-end value="true"/>
+        <start value="true"/>
+        <tracker-interval value="0.1"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<emission-export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/emission_file.xsd">
+    <timestep time="0.00">
+        <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="6221.24" CO="94.14" HC="0.59" NOx="2.14" PMx="0.14" fuel="2.67" electricity="0.00" noise="74.46" route="!vehicle_0!var#1" type="passenger" waiting="0.00" edge="TLON_A1M_C" pos="0.00" speed="31.21" angle="144.24" x="-231.69" y="262.21"/>
+    </timestep>
+</emission-export>

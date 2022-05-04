@@ -1,0 +1,193 @@
+<additionals>
+    <tlLogic id="SON_A1M_AC" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_A1M_AC" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_A1M_C" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_A1M_C" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M11_AC" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M11_AC" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M11_C" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M11_C" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M1_AC" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M1_C" type="actuated" programID="0" offset="0">
+        <phase duration="20" state="G" minDur="39" maxDur="50"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M1_C" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M20_AC" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M20_AC" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M20_C" type="static" programID="0" offset="0">
+        <phase duration="82" state="G"/>
+        <phase duration="3"  state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M20_C" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M23_AC" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M23_AC" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M23_C" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M23_C" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M26_AC" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M26_AC" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M26_C" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M26_C" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M2_AC" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M2_AC" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M2_C" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M2_C" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M3_AC" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M3_AC" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M40_AC" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M40_AC" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M40_C" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M40_C" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M4_AC" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M4_AC" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M4_C" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+    <tlLogic id="SON_M4_C" type="actuated" programID="1" offset="0">
+        <phase duration="75" state="G" minDur="20" maxDur="50"/>
+        <phase duration="5"  state="y"/>
+        <phase duration="20" state="r"/>
+    </tlLogic>
+    <tlLogic id="gneJ126" type="static" programID="0" offset="0">
+        <phase duration="72" state="G"/>
+        <phase duration="13" state="y"/>
+        <phase duration="5"  state="r"/>
+    </tlLogic>
+
+</additionals>
